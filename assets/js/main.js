@@ -3,10 +3,10 @@ le stringhe del primo array in minuscolo e con l’iniziale maiuscola.
 
 Es: [‘pippo’, ‘PLUTO’, ‘Paperino’] => [‘Pippo’, ‘Pluto’, ‘Paperino’]*/
 
-const nomiStringhe = ["Pippo", "Pluto", "Paperino"];
+const nomi = ["pippo", "pluto", "paperino"];
 
-console.log(nomiStringhe);
+console.log(nomi);
 
-const secondonomiStringhe = [];
+const secondonomi = [];
 
-console.log(secondonomiStringhe);
+console.log(secondonomi);
