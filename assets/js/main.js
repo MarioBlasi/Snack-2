@@ -2,3 +2,11 @@
 le stringhe del primo array in minuscolo e con l’iniziale maiuscola.
 
 Es: [‘pippo’, ‘PLUTO’, ‘Paperino’] => [‘Pippo’, ‘Pluto’, ‘Paperino’]*/
+
+const nomiStringhe = [
+  {
+    nome: "Pippo",
+    nome: "Pluto",
+    nome: "Paperino",
+  },
+];
